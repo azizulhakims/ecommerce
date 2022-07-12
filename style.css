@@ -344,7 +344,7 @@ select:focus{
     }
 
     .single-product .row{
-        text-align: : left;
+        text-align:left;
     }
     .single-product .col-2{
         padding: 20px 0;
@@ -418,7 +418,7 @@ table{
 
 .cart-info{
     display: flex;
-    fles-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 th{
